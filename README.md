@@ -20,9 +20,8 @@ SF No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## Challenges Faced and How Was It Overcome
 
-1. Collection of various input text document -> BCC news data
-2. Select the model best model -> RBM Model
-3. Feature selection -> 8 feature is used
+1. validating stock name and data
+2. time series analysis
 
 
 ### Miscellaneous
