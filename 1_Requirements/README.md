@@ -20,9 +20,9 @@ User can choose any stock from anywhere in the world and see it’s historical d
 ## Get next day’s closing prediction
 For any stock of his/her choosing, user can get prediction for the next day’s closing price.
 
-![](Aspose.Words.b894a8b5-2cdd-4018-b7ca-f3dad8d11aac.001.png)
+![](system.png)
 
-![](Aspose.Words.b894a8b5-2cdd-4018-b7ca-f3dad8d11aac.002.png)
+![](swot.png)
 # 4 W’s and 1 H
 ## Who
 Target audience is stock market investors and machine learning researchers.
