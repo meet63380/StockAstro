@@ -8,8 +8,8 @@ Folder             | Description
 -------------------| -----------------------------------------
 `1_Requirements`   | Documents detailing requirements and research
 `2_Design`         | Documents specifying design details
-`3_Implementation` | All code and documentation
-`4_Test_plan and output`      | Documents with test plans and procedures
+`3_TestPlan` | Documents with test plans
+`4_Implementation` | Contains implementation      | 
 
 ## Contributors List and Summary
 
