@@ -15,7 +15,7 @@ Folder             | Description
 
 SF No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`99005437` | Shah Meet Anilkumar  |   Check Historical Stock data & predict next day closing price  | 10     | 10   |7   | YES    
+`99005437` | Shah Meet Anilkumar  |   Check Historical Stock data & predict next day closing price  | 10     | 10   |6   | YES    
    
 
 ## Challenges Faced and How Was It Overcome
